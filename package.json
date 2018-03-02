@@ -1,0 +1,29 @@
+{
+  "name": "smi_coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjaime/smi_coin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamjaime/smi_coin/issues"
+  },
+  "homepage": "https://github.com/iamjaime/smi_coin#readme",
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.29",
+    "web3-provider-engine": "^13.6.0",
+    "zeppelin-solidity": "1.6.0"
+  }
+}
